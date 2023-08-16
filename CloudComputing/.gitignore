@@ -1,0 +1,13 @@
+.vscode/
+*.pyc
+.idea/
+__pycache__/
+*.db
+.DS_Store
+venv/
+.venv/
+.env
+.flaskenv
+do.yaml
+doo.yaml
+deploy-minggu-3-6afacecbadef.json
