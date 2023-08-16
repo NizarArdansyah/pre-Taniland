@@ -1,0 +1,666 @@
+temperature,humidity,label,cluster
+23,64,jagung,0
+27,72,jagung,0
+24,72,jagung,0
+20,58,jagung,0
+19,63,jagung,0
+22,58,jagung,0
+26,67,jagung,0
+26,67,jagung,0
+21,63,jagung,0
+25,67,jagung,0
+25,69,jagung,0
+23,59,jagung,0
+19,66,jagung,0
+26,61,jagung,0
+19,56,jagung,0
+25,71,jagung,0
+26,66,jagung,0
+24,61,jagung,0
+19,63,jagung,0
+19,72,jagung,0
+19,67,jagung,0
+19,59,jagung,0
+26,68,jagung,0
+26,69,jagung,0
+24,58,jagung,0
+22,72,jagung,0
+24,64,jagung,0
+26,64,jagung,0
+22,64,jagung,0
+19,56,jagung,0
+23,68,jagung,0
+24,62,jagung,0
+25,66,jagung,0
+20,63,jagung,0
+22,60,jagung,0
+25,71,jagung,0
+22,61,jagung,0
+26,58,jagung,0
+23,73,jagung,0
+21,70,jagung,0
+25,69,jagung,0
+21,57,jagung,0
+26,62,jagung,0
+20,66,jagung,0
+21,66,jagung,0
+25,57,jagung,0
+21,64,jagung,0
+19,65,jagung,0
+24,62,jagung,0
+20,62,jagung,0
+22,62,jagung,0
+23,57,jagung,0
+20,70,jagung,0
+23,66,jagung,0
+24,60,jagung,0
+19,70,jagung,0
+24,62,jagung,0
+27,73,jagung,0
+20,70,jagung,0
+21,60,jagung,0
+20,69,jagung,0
+23,60,jagung,0
+26,62,jagung,0
+20,69,jagung,0
+22,61,jagung,0
+21,60,jagung,0
+25,56,jagung,0
+25,66,jagung,0
+23,66,jagung,0
+19,61,jagung,0
+24,73,jagung,0
+23,72,jagung,0
+26,70,jagung,0
+27,67,jagung,0
+19,62,jagung,0
+26,56,jagung,0
+24,60,jagung,0
+26,66,jagung,0
+26,73,jagung,0
+26,64,jagung,0
+26,68,jagung,0
+19,72,jagung,0
+21,64,jagung,0
+19,73,jagung,0
+27,72,jagung,0
+19,62,jagung,0
+27,60,jagung,0
+19,73,jagung,0
+24,64,jagung,0
+19,63,jagung,0
+20,60,jagung,0
+26,71,jagung,0
+37,58,kacang polong,0
+37,63,kacang polong,0
+30,60,kacang polong,0
+28,44,kacang polong,0
+22,56,kacang polong,0
+31,43,kacang polong,0
+32,46,kacang polong,0
+34,39,kacang polong,0
+30,64,kacang polong,0
+31,68,kacang polong,0
+36,69,kacang polong,0
+34,41,kacang polong,0
+29,50,kacang polong,0
+32,57,kacang polong,0
+29,58,kacang polong,0
+25,41,kacang polong,0
+20,56,kacang polong,0
+29,51,kacang polong,0
+20,48,kacang polong,0
+25,51,kacang polong,0
+20,46,kacang polong,0
+29,50,kacang polong,0
+25,47,kacang polong,0
+27,42,kacang polong,0
+32,58,kacang polong,0
+34,68,kacang polong,0
+24,47,kacang polong,0
+35,40,kacang polong,0
+35,48,kacang polong,0
+29,53,kacang polong,0
+32,48,kacang polong,0
+21,47,kacang polong,0
+31,53,kacang polong,0
+28,67,kacang polong,0
+20,57,kacang polong,0
+32,57,kacang polong,0
+34,46,kacang polong,0
+25,46,kacang polong,0
+27,50,kacang polong,0
+24,52,kacang polong,0
+35,39,kacang polong,0
+29,45,kacang polong,0
+25,58,kacang polong,0
+34,49,kacang polong,0
+21,61,kacang polong,0
+20,60,kacang polong,0
+29,63,kacang polong,0
+37,44,kacang polong,0
+24,48,kacang polong,0
+26,41,kacang polong,0
+32,67,kacang polong,0
+19,62,kacang polong,0
+30,64,kacang polong,0
+37,57,kacang polong,0
+37,57,kacang polong,0
+30,68,kacang polong,0
+25,60,kacang polong,0
+30,46,kacang polong,0
+35,55,kacang polong,0
+22,57,kacang polong,0
+23,61,kacang polong,0
+32,49,kacang polong,0
+26,41,kacang polong,0
+22,70,kacang polong,0
+20,48,kacang polong,0
+20,51,kacang polong,0
+23,63,kacang polong,0
+37,59,kacang polong,0
+30,67,kacang polong,0
+30,45,kacang polong,0
+30,43,kacang polong,0
+20,67,kacang polong,0
+21,49,kacang polong,0
+28,65,kacang panjang,0
+28,52,kacang panjang,0
+29,60,kacang panjang,0
+30,62,kacang panjang,0
+28,55,kacang panjang,0
+32,55,kacang panjang,0
+28,56,kacang panjang,0
+29,54,kacang panjang,0
+28,59,kacang panjang,0
+29,56,kacang panjang,0
+32,46,kacang panjang,0
+26,46,kacang panjang,0
+32,57,kacang panjang,0
+25,59,kacang panjang,0
+32,52,kacang panjang,0
+26,51,kacang panjang,0
+31,48,kacang panjang,0
+29,44,kacang panjang,0
+26,45,kacang panjang,0
+32,44,kacang panjang,0
+27,56,kacang panjang,0
+29,62,kacang panjang,0
+28,50,kacang panjang,0
+26,56,kacang panjang,0
+28,52,kacang panjang,0
+26,50,kacang panjang,0
+32,47,kacang panjang,0
+31,59,kacang panjang,0
+26,54,kacang panjang,0
+28,44,kacang panjang,0
+25,57,kacang panjang,0
+31,46,kacang panjang,0
+29,61,kacang panjang,0
+27,41,kacang panjang,0
+29,58,kacang panjang,0
+29,45,kacang panjang,0
+25,60,kacang panjang,0
+29,46,kacang panjang,0
+26,65,kacang panjang,0
+31,42,kacang panjang,0
+26,62,kacang panjang,0
+26,52,kacang panjang,0
+28,64,kacang panjang,0
+32,45,kacang panjang,0
+27,57,kacang panjang,0
+31,64,kacang panjang,0
+28,55,kacang panjang,0
+31,44,kacang panjang,0
+27,48,kacang panjang,0
+32,58,kacang panjang,0
+26,47,kacang panjang,0
+26,57,kacang panjang,0
+29,63,kacang panjang,0
+30,61,kacang panjang,0
+29,62,kacang panjang,0
+25,45,kacang panjang,0
+26,59,kacang panjang,0
+32,63,kacang panjang,0
+28,53,kacang panjang,0
+28,43,kacang panjang,0
+29,58,kacang panjang,0
+29,50,kacang panjang,0
+28,46,kacang panjang,0
+31,62,kacang panjang,0
+31,51,kacang panjang,0
+27,42,kacang panjang,0
+27,62,kacang panjang,0
+29,45,kacang panjang,0
+29,44,kacang panjang,0
+30,58,kacang panjang,0
+25,59,kacang panjang,0
+27,60,kacang panjang,0
+29,54,kacang panjang,0
+29,53,kacang panjang,0
+30,62,kacang panjang,0
+29,53,kacang panjang,0
+27,49,kacang panjang,0
+32,41,kacang panjang,0
+25,62,kacang panjang,0
+30,50,kacang panjang,0
+30,55,kacang panjang,0
+32,42,kacang panjang,0
+27,49,kacang panjang,0
+32,63,kacang panjang,0
+31,47,kacang panjang,0
+30,64,kacang panjang,0
+30,58,kacang panjang,0
+31,53,kacang panjang,0
+31,61,kacang panjang,0
+31,56,kacang panjang,0
+26,64,kacang panjang,0
+31,60,kacang panjang,0
+31,41,kacang panjang,0
+25,54,kacang panjang,0
+29,62,kacang panjang,0
+30,50,kacang panjang,0
+28,62,kacang panjang,0
+25,49,kacang panjang,0
+26,46,kacang panjang,0
+32,50,kacang panjang,0
+30,64,lentil hitam,0
+27,69,lentil hitam,0
+27,63,lentil hitam,0
+35,68,lentil hitam,0
+29,66,lentil hitam,0
+29,66,lentil hitam,0
+35,65,lentil hitam,0
+34,62,lentil hitam,0
+33,69,lentil hitam,0
+28,64,lentil hitam,0
+26,62,lentil hitam,0
+33,67,lentil hitam,0
+30,69,lentil hitam,0
+31,69,lentil hitam,0
+29,65,lentil hitam,0
+31,70,lentil hitam,0
+32,63,lentil hitam,0
+28,63,lentil hitam,0
+33,65,lentil hitam,0
+30,65,lentil hitam,0
+28,68,lentil hitam,0
+29,61,lentil hitam,0
+28,69,lentil hitam,0
+31,68,lentil hitam,0
+28,70,lentil hitam,0
+31,62,lentil hitam,0
+29,62,lentil hitam,0
+26,67,lentil hitam,0
+35,66,lentil hitam,0
+26,68,lentil hitam,0
+33,65,lentil hitam,0
+34,69,lentil hitam,0
+26,61,lentil hitam,0
+32,70,lentil hitam,0
+35,64,lentil hitam,0
+32,69,lentil hitam,0
+28,67,lentil hitam,0
+27,68,lentil hitam,0
+31,61,lentil hitam,0
+32,68,lentil hitam,0
+30,70,lentil hitam,0
+28,68,lentil hitam,0
+35,62,lentil hitam,0
+34,63,lentil hitam,0
+29,64,lentil hitam,0
+32,64,lentil hitam,0
+26,64,lentil hitam,0
+35,70,lentil hitam,0
+35,64,lentil hitam,0
+30,65,lentil hitam,0
+30,68,lentil hitam,0
+29,66,lentil hitam,0
+28,70,lentil hitam,0
+34,69,lentil hitam,0
+34,70,lentil hitam,0
+31,61,lentil hitam,0
+30,67,lentil hitam,0
+28,69,lentil hitam,0
+32,65,lentil hitam,0
+32,67,lentil hitam,0
+30,65,lentil hitam,0
+30,65,lentil hitam,0
+29,62,lentil hitam,0
+29,64,lentil hitam,0
+31,62,lentil hitam,0
+26,62,lentil hitam,0
+33,61,lentil hitam,0
+34,67,lentil hitam,0
+33,68,lentil hitam,0
+28,63,lentil hitam,0
+26,70,lentil hitam,0
+31,65,lentil hitam,0
+29,69,lentil hitam,0
+29,62,lentil hitam,0
+29,65,lentil hitam,0
+27,62,lentil hitam,0
+33,69,lentil hitam,0
+27,65,lentil hitam,0
+30,64,lentil hitam,0
+28,68,lentil hitam,0
+35,66,lentil hitam,0
+31,65,lentil hitam,0
+29,62,lentil hitam,0
+28,67,lentil hitam,0
+29,67,lentil hitam,0
+27,64,lentil hitam,0
+33,67,lentil hitam,0
+30,66,lentil hitam,0
+34,63,lentil hitam,0
+32,67,lentil hitam,0
+31,66,lentil hitam,0
+29,67,lentil hitam,0
+31,68,lentil hitam,0
+32,61,lentil hitam,0
+31,64,lentil hitam,0
+34,66,lentil hitam,0
+32,63,lentil hitam,0
+28,64,lentil hitam,0
+33,62,lentil hitam,0
+33,68,lentil hitam,0
+29,64,lentil,0
+20,64,lentil,0
+30,61,lentil,0
+22,70,lentil,0
+27,69,lentil,0
+23,63,lentil,0
+27,61,lentil,0
+27,67,lentil,0
+20,63,lentil,0
+29,70,lentil,0
+26,61,lentil,0
+24,62,lentil,0
+29,64,lentil,0
+29,62,lentil,0
+22,63,lentil,0
+22,64,lentil,0
+25,62,lentil,0
+26,66,lentil,0
+30,65,lentil,0
+21,69,lentil,0
+30,69,lentil,0
+19,70,lentil,0
+28,64,lentil,0
+25,61,lentil,0
+30,68,lentil,0
+26,68,lentil,0
+21,66,lentil,0
+23,67,lentil,0
+26,67,lentil,0
+29,63,lentil,0
+19,70,lentil,0
+25,62,lentil,0
+22,67,lentil,0
+19,63,lentil,0
+26,61,lentil,0
+26,70,lentil,0
+29,70,lentil,0
+28,64,lentil,0
+29,61,lentil,0
+28,63,lentil,0
+19,69,lentil,0
+28,70,lentil,0
+24,64,lentil,0
+21,64,lentil,0
+24,69,lentil,0
+23,66,lentil,0
+22,66,lentil,0
+30,66,lentil,0
+26,68,lentil,0
+26,69,lentil,0
+25,62,lentil,0
+24,68,lentil,0
+22,64,lentil,0
+28,64,lentil,0
+25,63,lentil,0
+25,67,lentil,0
+29,70,lentil,0
+27,70,lentil,0
+29,65,lentil,0
+25,65,lentil,0
+24,63,lentil,0
+21,68,lentil,0
+20,62,lentil,0
+30,67,lentil,0
+28,61,lentil,0
+26,64,lentil,0
+21,61,lentil,0
+26,61,lentil,0
+25,61,lentil,0
+28,64,lentil,0
+19,66,lentil,0
+19,63,lentil,0
+24,68,lentil,0
+24,63,lentil,0
+26,69,lentil,0
+26,62,lentil,0
+19,69,lentil,0
+28,68,lentil,0
+24,65,lentil,0
+27,63,lentil,0
+20,65,lentil,0
+27,67,lentil,0
+28,66,lentil,0
+30,63,lentil,0
+26,65,lentil,0
+22,64,lentil,0
+25,61,lentil,0
+21,66,lentil,0
+25,69,lentil,0
+22,66,lentil,0
+26,69,lentil,0
+30,70,lentil,0
+28,64,lentil,0
+28,69,lentil,0
+21,64,lentil,0
+24,61,lentil,0
+22,64,lentil,0
+27,68,lentil,0
+21,64,lentil,0
+24,67,lentil,0
+30,48,mangga,0
+34,54,mangga,0
+28,48,mangga,0
+34,46,mangga,0
+36,55,mangga,0
+35,51,mangga,0
+31,54,mangga,0
+32,46,mangga,0
+36,53,mangga,0
+32,53,mangga,0
+28,53,mangga,0
+35,52,mangga,0
+28,54,mangga,0
+28,49,mangga,0
+28,53,mangga,0
+31,49,mangga,0
+32,46,mangga,0
+36,50,mangga,0
+30,53,mangga,0
+35,55,mangga,0
+29,48,mangga,0
+28,54,mangga,0
+32,55,mangga,0
+33,51,mangga,0
+29,49,mangga,0
+32,48,mangga,0
+35,50,mangga,0
+30,50,mangga,0
+34,47,mangga,0
+31,51,mangga,0
+28,52,mangga,0
+32,50,mangga,0
+36,52,mangga,0
+34,46,mangga,0
+36,49,mangga,0
+29,52,mangga,0
+33,51,mangga,0
+32,51,mangga,0
+28,49,mangga,0
+30,46,mangga,0
+33,54,mangga,0
+31,50,mangga,0
+36,46,mangga,0
+33,53,mangga,0
+29,48,mangga,0
+28,48,mangga,0
+28,51,mangga,0
+35,49,mangga,0
+34,49,mangga,0
+28,55,mangga,0
+33,53,mangga,0
+36,52,mangga,0
+28,48,mangga,0
+33,48,mangga,0
+31,52,mangga,0
+30,55,mangga,0
+33,52,mangga,0
+29,48,mangga,0
+30,50,mangga,0
+29,54,mangga,0
+28,46,mangga,0
+29,47,mangga,0
+31,47,mangga,0
+29,55,mangga,0
+34,46,mangga,0
+28,54,mangga,0
+32,49,mangga,0
+30,47,mangga,0
+32,51,mangga,0
+36,49,mangga,0
+32,52,mangga,0
+33,54,mangga,0
+28,52,mangga,0
+35,51,mangga,0
+32,53,mangga,0
+34,53,mangga,0
+32,48,mangga,0
+32,50,mangga,0
+33,51,mangga,0
+36,48,mangga,0
+28,50,mangga,0
+31,50,mangga,0
+30,46,mangga,0
+31,47,mangga,0
+35,52,mangga,0
+34,54,mangga,0
+36,53,mangga,0
+32,54,mangga,0
+31,48,mangga,0
+31,51,mangga,0
+32,48,mangga,0
+34,55,mangga,0
+29,55,mangga,0
+36,53,mangga,0
+29,51,mangga,0
+32,49,mangga,0
+28,52,mangga,0
+31,53,mangga,0
+33,55,mangga,0
+33,48,mangga,0
+27,58,kopi,0
+27,56,kopi,0
+26,53,kopi,0
+25,57,kopi,0
+24,61,kopi,0
+24,53,kopi,0
+24,51,kopi,0
+24,64,kopi,0
+28,52,kopi,0
+26,70,kopi,0
+27,56,kopi,0
+27,53,kopi,0
+28,58,kopi,0
+25,52,kopi,0
+28,56,kopi,0
+26,63,kopi,0
+24,69,kopi,0
+28,53,kopi,0
+24,61,kopi,0
+26,58,kopi,0
+26,58,kopi,0
+26,61,kopi,0
+26,52,kopi,0
+25,63,kopi,0
+24,67,kopi,0
+25,67,kopi,0
+28,53,kopi,0
+28,69,kopi,0
+24,56,kopi,0
+24,53,kopi,0
+25,52,kopi,0
+25,65,kopi,0
+28,52,kopi,0
+27,68,kopi,0
+28,61,kopi,0
+28,59,kopi,0
+24,54,kopi,0
+25,55,kopi,0
+24,65,kopi,0
+27,56,kopi,0
+25,57,kopi,0
+27,66,kopi,0
+25,67,kopi,0
+27,63,kopi,0
+27,63,kopi,0
+28,64,kopi,0
+26,62,kopi,0
+28,55,kopi,0
+27,55,kopi,0
+27,53,kopi,0
+28,56,kopi,0
+28,62,kopi,0
+28,56,kopi,0
+24,51,kopi,0
+25,58,kopi,0
+28,55,kopi,0
+24,62,kopi,0
+25,68,kopi,0
+26,69,kopi,0
+25,54,kopi,0
+27,53,kopi,0
+27,58,kopi,0
+27,59,kopi,0
+26,58,kopi,0
+24,56,kopi,0
+24,60,kopi,0
+25,70,kopi,0
+27,54,kopi,0
+27,64,kopi,0
+28,65,kopi,0
+26,63,kopi,0
+28,68,kopi,0
+27,53,kopi,0
+27,65,kopi,0
+25,55,kopi,0
+28,69,kopi,0
+27,53,kopi,0
+24,68,kopi,0
+24,69,kopi,0
+26,69,kopi,0
+25,59,kopi,0
+27,70,kopi,0
+27,51,kopi,0
+25,57,kopi,0
+28,51,kopi,0
+28,59,kopi,0
+27,58,kopi,0
+27,63,kopi,0
+24,53,kopi,0
+24,66,kopi,0
+28,56,kopi,0
+28,63,kopi,0
+26,58,kopi,0
+24,51,kopi,0
+25,54,kopi,0
+27,67,kopi,0
+28,57,kopi,0
+25,68,kopi,0
+27,53,kopi,0
+24,61,kopi,0
